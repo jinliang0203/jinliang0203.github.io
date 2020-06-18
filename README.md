@@ -30,7 +30,6 @@
 - **Markdown**
 - **Linux**
 - **Git**
-- - **Svn**
+-  **Svn**
 - **VSCode**
 
-<!-- slide -->

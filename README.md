@@ -6,7 +6,7 @@
 
 ## 我的一些联系方式
 
-- Address: **Sun Yat-sen University - 132 Waihuan East Rd. - Guangzhou, China**
+- Address: **Suzhou, China**
 - Site: **<https://jinliang0203.github.io>**
 
 <!-- slide vertical=true -->
